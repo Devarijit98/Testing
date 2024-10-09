@@ -9,4 +9,7 @@ public class Main {
     public void add(){
         System.out.println("Arijit in ");
     }
+    public void minus(){
+        System.out.println("Dummy");
+    }
 }
